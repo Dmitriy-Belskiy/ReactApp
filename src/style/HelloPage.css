@@ -1,0 +1,25 @@
+.welcomPage{
+    margin-top: 20px;
+    padding-top: 100px;
+    justify-content: left;
+    width: 250px;
+}
+
+.firstText{
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+}
+
+.secondText{
+    font-size: 11px;
+    margin: 10px 10px 10px 10px;
+}
+
+.batton{
+    color: white;
+    background-color: black;
+    border-radius: 12px;
+    height: 25px;
+    margin: 10px 10px 10px 10px;
+    font-size: 12px;
+}

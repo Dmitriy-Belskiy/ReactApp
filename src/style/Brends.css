@@ -1,0 +1,53 @@
+.BrendsAll{
+    margin-top: 10px;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: nowrap;
+    width: 800px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.Brend1{
+    font-size: 30px;
+    margin: 10px 10px 30px 150px;
+}
+
+.Brend2{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 24px;
+}
+
+.com1{
+    padding: 10px 50px 10px 50px;
+}
+.com2{
+    padding: 10px 50px 10px 50px;
+}
+.com3{
+    padding: 10px 50px 10px 50px;
+}
+.com4{
+    padding: 10px 50px 10px 50px;
+}
+.com5{
+    padding: 10px 50px 10px 50px;
+}
+.com6{
+    padding: 10px 50px 10px 50px;
+}
+.com7{
+    padding: 10px 50px 10px 50px;
+}
+.com8{
+    padding: 10px 50px 10px 50px;
+}
+
+.Brend3{
+    font-size: 20px;
+    margin: 30px 10px 10px 305px;
+}
